@@ -7,3 +7,10 @@ projects, so I thought "What if I started building my own efficient file explore
 Currently, GetDaSize only has very small and humble features (it's still very raw, come on), however I aim to further develop this 
 project and, someday, achieve to create a fast, memory efficient and reliable file explorer for all platforms (hopefully not built on 
 python, though).
+
+If you want to use GetDaSize you just have to download the current python file, run `pip install pyinstaller`, then place the python 
+file in a specific dir and run `pyinstaller --onefile --windowed GetDaSize.pyw` while in the same directory.
+
+Or simply just run the python file.
+
+Okay have fun!
